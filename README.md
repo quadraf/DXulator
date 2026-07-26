@@ -11,5 +11,5 @@ With a DX7 the result is a more lively natural sound WITH expression. In DXulato
 For the example Supertramp.SFZ you have to unzip in the "Work" folder of DXulator.
 
 1. unzip DXulator3.zip and install the DXulator.msi file.
-2. unzip DXulator.zip and replace the updated DXulator.exe file in the installer map.
+2. unzip DXulator_update.zip and replace the DXulator.exe file in the folder where you installed DXulator.
 3. Enjoy the sound creative possibilities of DXulator!
