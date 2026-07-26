@@ -10,4 +10,6 @@ mostly are very static and don't change the dynamic buildup of harmonics with di
 With a DX7 the result is a more lively natural sound WITH expression. In DXulator you also can use this feature to create SFZ soundfont files including up to 8  different velocity-layers and five dx7s in stereo! Component modeling at your fingertips!
 For the example Supertramp.SFZ you have to unzip in the "Work" folder of DXulator.
 
-Enjoy the sound creative possibilities of DXulator!
+1. unzip DXulator3.zip and install the DXulator.msi file.
+2. unzip DXulator.zip and replace the updated DXulator.exe file in the installer map.
+3. Enjoy the sound creative possibilities of DXulator!
