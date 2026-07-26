@@ -1,7 +1,6 @@
 # DXulator
 DXulator is a free DX7 emulator, programmed in Visual Basic 6 for Windows.
 
-Here you find DXulator, which is a free DX7 emulator, programmed in Visual Basic 6 for Windows.
 DXulator is engined by Csound and fueled with the 32 orc's (credits for Dr. Russell Pinkston, Jeff Harrington and Sylvain Marchand ) found  here  on Jeff's site, which describe the algoritms in a DX7 synthesizer. The main purpose is to automaticaly create and play SFZ  soundfont  files from DX7 patches. Secondairly  DXulator is also a DX7 editor/patchmanager.
 
 Why emulating a DX7?
