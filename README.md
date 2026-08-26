@@ -15,5 +15,4 @@ Component modeling at your fingertips!
 For the example Supertramp.SFZ you have to unzip in the "Work" folder of DXulator.
 
 1. unzip DXulator3.zip and install the DXulator.msi file.
-2. unzip DXulator_update.zip and replace the DXulator1.exe file in the folder where you installed DXulator.
-3. Run DXulator1.exe file and enjoy the sound creative possibilities of DXulator!
+2. Run DXulator.exe file and enjoy the sound creative possibilities of DXulator!
