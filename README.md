@@ -12,7 +12,9 @@ Because the DX7 is a very expressive synthesizer. The main difference between DX
 precisely control the buildup of harmonics in 8 dynamic velocity-layers.
 In DXulator you also can use this feature to create SFZ soundfont files with five dx7s in stereo!
 Component modeling at your fingertips!
-For the example Supertramp.SFZ you have to unzip in the "Work" folder of DXulator.
+For the example Supertramp.SFZ you have to download and unzip in the "Work" folder of DXulator.
 
-1. unzip DXulator3.zip and install the DXulator.msi file.
-2. Run DXulator.exe file and enjoy the sound creative possibilities of DXulator!
+1. Unzip DXulator3.zip and install the DXulator.msi file.
+2. Unzip DXulator_update and replace DXulator.exe with the updated version in the install folder.
+3. Run DXulator.exe file and enjoy the sound creative possibilities of DXulator!
+4. Help file = DXulator.chm in install folder.
